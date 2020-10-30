@@ -1,6 +1,6 @@
 # Setting Up the project
 
-1. Simple Just cd into project directory 
+1. Simply, Just cd into project directory 
 
 2. docker-compose build (Builds neccessary docker image)
 
